@@ -1,6 +1,6 @@
 {
   "name": "unused-scaner",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "scaner unused images and dependencies",
   "main": "index.js",
   "dependencies": {
