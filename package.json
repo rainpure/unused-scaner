@@ -1,7 +1,7 @@
 {
   "name": "unused-scaner",
-  "version": "1.0.0",
-  "description": "自动检测并删除无用图片资源、依赖",
+  "version": "1.0.1",
+  "description": "scaner unused images and dependencies",
   "main": "index.js",
   "dependencies": {
     "commander": "^2.19.0",
