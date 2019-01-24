@@ -1,8 +1,8 @@
 {
-  "name": "scan",
+  "name": "unused-scaner",
   "version": "1.0.0",
   "description": "自动检测并删除无用图片资源、依赖",
-  "main": "index2.js",
+  "main": "index.js",
   "dependencies": {
     "ora": "^3.0.0",
     "yargs": "^12.0.5"
@@ -11,6 +11,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "rainpure <790864964@qq.com> (https://github.com/rainpure)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainpure/unused-scaner.git"
+  },
+  "keywords": [
+    "unused"
+  ],
+  "bugs": {
+    "url": "https://github.com/rainpure/unused-scaner/issues"
+  },
+  "homepage": "https://github.com/rainpure/unused-scaner#readme"
 }
