@@ -9,5 +9,11 @@ npm i -g unused-scaner
 In your project directory
 
 ```
-scan --scanFolder foldername
+scan --scanFolder Foldername
+```
+
+If you want to DELETE waste images
+
+```
+scan --scanFolder foldername --remove
 ```
